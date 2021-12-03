@@ -1,0 +1,5 @@
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\ArrayAssessment\ArrayAssessment\bin\Debug\ArrayAssessment.exe
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\ArrayAssessment\ArrayAssessment\bin\Debug\ArrayAssessment.pdb
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\ArrayAssessment\ArrayAssessment\obj\Debug\ArrayAssessment.vbprojResolveAssemblyReference.cache
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\ArrayAssessment\ArrayAssessment\obj\Debug\ArrayAssessment.exe
+\\kes4601-19-fsvr\user\19 intake\19OFoster\SharpDevelop Projects\ArrayAssessment\ArrayAssessment\obj\Debug\ArrayAssessment.pdb
